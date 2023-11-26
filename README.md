@@ -40,12 +40,12 @@ RegisterNumber:  23013616
 */
 
 ## Truthtable:
-HALF SUBTRACTOR:
-![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/beac2ff0-9644-4c84-876e-55773f90ba9c)
+HALF SUBTRACTOR
+![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/a954feb0-0dd6-4d8c-af71-d82d53fe2a93)
 
 
 FULL SUBTRACTOR
-![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/582fe009-bff9-4b8f-ac25-5d98454dd5f3)
+![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/ec5fb0d4-3db1-4dc4-9751-5825b76e439f)
 
 
 ## RTL realization:
