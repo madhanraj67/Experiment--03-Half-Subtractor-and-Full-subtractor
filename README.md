@@ -39,19 +39,19 @@ Developed by: MADHANRAJ P
 RegisterNumber:  23013616
 */
 ## TRUTH TABLE:
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/e4b5682f-d282-496b-bd92-923bf4d7f40f)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/6f7033a3-7299-4d00-990d-f6c5c9203ad4)
 ## RTL realization:
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/7002a8cb-66b1-4a05-bbdf-fc1ca478a6d9)
 FULL SUBTRACTOR
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/13cf5b69-8ad5-4f3a-95fb-ce97d38500e7)
 ## Timing diagram:
-Half subtractor
+## Half subtractor
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/617bbae2-1f74-4c2f-b456-678ea8410c87)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![image](https://github.com/madhanraj67/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319515/53c51a48-02cf-4f44-8146-cd4b90bad505)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
